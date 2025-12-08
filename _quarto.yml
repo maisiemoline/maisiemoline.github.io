@@ -15,8 +15,8 @@ format:
     theme:
       - cosmo
       - brand
-    css: styles.css
+      - styles.css
     toc: true
 
-
+editor: visual
 
