@@ -15,9 +15,9 @@ format:
     theme:
       - cosmo
       - brand
-      - styles.css
     toc: true
     page-layout: full
+    css: styles.css
 
 editor: visual
 

@@ -1,16 +1,16 @@
 ---
 title: "Maisie Moline"
 image: media/lgsk6.jpeg
-2toc: false
+toc: false
 about: 
-3  template: jolla
-4  image-shape: round
+  template: jolla
+  image-shape: round
   image-width: 17em
-5  links:
+  links:
     - text: GitHub
       href: https://github.com/maisiemoline
     - text: Email
-      href: maisie.moline@colostate.edu
+      href: mailto:maisie.moline@colostate.edu
 ---
 
 Hello, my name is Maisie Moline. I am a watershed science major with Global Environmental Sustainability and Statistics minors. Growing up in Colorado has fostered a concern and appreciation for water issues in the West. 
