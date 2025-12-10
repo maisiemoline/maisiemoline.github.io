@@ -7,7 +7,9 @@ format: html
 
 *Data from ASOS station 0CO, Berthoud Pass*
 
-```{r, include==FALSE,message=FALSE,warning=FALSE}
+[map](media/lc_map.png)
+
+```{r, include=FALSE,message=FALSE,warning=FALSE}
 library(tidyverse)
 library(ggplot2)
 library(viridis)
@@ -46,6 +48,56 @@ sy_months <- c("Sep","Oct","Nov","Dec","Jan","Feb","Mar","Apr","May","Jun","Jul"
 
 windassign <- windassign %>%
   mutate(month_lab = factor(month_lab, levels = sy_months))
+
+
+
+```
+
+
+**Temperature: monthly maximum, average, minimum in degrees C **
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE}
+
+
+
+
+precip.temp<-read.csv("data/0CO_Precip&Temp copy.csv")
+
+ precip.temp<-precip.temp%>%
+   mutate(as.numeric(Temp_avg_C))%>%
+  mutate( Month = factor(Month,
+      levels = c("Sep", "Oct", "Nov", "Dec", 
+                 "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug")))
+ggplot(precip.temp, aes(x = Month)) +
+  geom_line(aes(y = Max_temp_C, color = "Maximum",group = 1,alpha = .5), size = 1) +
+  geom_line(aes(y = Temp_avg_C, color = "Average",group = 1,alpha = .5), size = 1) +
+  geom_line(aes(y = Min_Temp_C, color = "Minimum",group=1,alpha = .5), size = 1) +
+  geom_point(aes(y = Max_temp_C, color = "Maximum"),size=2) +
+  geom_point(aes(y = Temp_avg_C, color = "Average"),size=2) +
+  geom_point(aes(y = Min_Temp_C, color = "Minimum"),size=2) +
+  labs(
+    x = "Month",
+    y = "Temperature (°C)",
+    caption = "Figure 2. Monthly average, maximum, and minimum temperature (in °C) for snow year 2024 at ASOS station 0CO – 
+Berthoud Pass. Data sourced from NCDC "
+  ) +
+  theme_bw() + theme(plot.caption = element_text(hjust = 0,size = 12))+
+  scale_color_manual(
+    name = "Temperature Type",
+    values = c("Maximum" = "firebrick3", "Average" = "grey3", "Minimum" = "cyan4"))+guides(alpha="none")
+  
+
+```
+
+
+**Precipitation:monthly totals mm**
+
+
+```{r, echo=FALSE}
+
+
+ggplot(precip.temp)+geom_col(aes(x=Month,y=Precip_mm),fill="dodgerblue4",color="black",width = 0.8) + labs(x="Month", y="Precipitation (mm)", caption = "Figure 1. Monthly total precipitation (in millimeters) for snow year 2024 (September 2023 to August 2024) at ASOS 
+station 0CO - Berthoud Pass. Data sourced from NCDC.") + theme_bw()+theme(panel.grid.major = element_line(color = "grey69"),plot.caption = element_text( hjust = 0),panel.grid.major.x = element_blank(),panel.grid.minor= element_line(color = "grey69"))
 
 
 
@@ -97,4 +149,6 @@ in the snow year 52 times in hourly data.There is also 435 missing wind entries 
     axis.text.y = element_blank(),
     plot.caption = element_text(vjust = -0.5,hjust = 0.25))
 ```
+
+## [name](filepath)
 
