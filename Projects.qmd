@@ -3,11 +3,17 @@ title: "Projects"
 format: html
 ---
 
+##  Thesis
+
+## [From Yuck to Yes: What Drives Acceptance of Potable Water Reuse](media/Thesis copy.pdf)
+
+
+
 ##  Snow Hydrology
 
 *Data from ASOS station 0CO, Berthoud Pass*
 
-[map](media/lc_map.png)
+![map](media/lc_map.png)
 
 ```{r, include=FALSE,message=FALSE,warning=FALSE}
 library(tidyverse)
@@ -96,7 +102,7 @@ Berthoud Pass. Data sourced from NCDC "
 ```{r, echo=FALSE}
 
 
-ggplot(precip.temp)+geom_col(aes(x=Month,y=Precip_mm),fill="dodgerblue4",color="black",width = 0.8) + labs(x="Month", y="Precipitation (mm)", caption = "Figure 1. Monthly total precipitation (in millimeters) for snow year 2024 (September 2023 to August 2024) at ASOS 
+ggplot(precip.temp)+geom_col(aes(x=Month,y=Precip_mm),fill="dodgerblue4",color="black",width = 0.8) + labs(x="Month", y="Precipitation (mm)", caption = "Figure 3. Monthly total precipitation (in millimeters) for snow year 2024 (September 2023 to August 2024) at ASOS 
 station 0CO - Berthoud Pass. Data sourced from NCDC.") + theme_bw()+theme(panel.grid.major = element_line(color = "grey69"),plot.caption = element_text( hjust = 0),panel.grid.major.x = element_blank(),panel.grid.minor= element_line(color = "grey69"))
 
 
@@ -137,7 +143,7 @@ ggplot(wind_freq, aes(x = factor(sector), y = percent, fill = percent)) +
   labs(
     x = "Wind Direction (°)",
     y = NULL,
-    caption = "Figure 5. Wind rose direction at ASOS station 0CO – Berthoud Pass for snow year 2024. Data sourced from NCDC. Rose 
+    caption = "Figure 4. Wind rose direction at ASOS station 0CO – Berthoud Pass for snow year 2024. Data sourced from NCDC. Rose 
 split into 36 sectors where 360° is north. A wind direction of 0 is no wind so it has been extracted from this graph. 0 appeared 
 in the snow year 52 times in hourly data.There is also 435 missing wind entries from this data and no variable (VRB) wind."
 
@@ -150,5 +156,5 @@ in the snow year 52 times in hourly data.There is also 435 missing wind entries 
     plot.caption = element_text(vjust = -0.5,hjust = 0.25))
 ```
 
-## [name](filepath)
+
 

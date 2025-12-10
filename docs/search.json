@@ -18,14 +18,14 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Data from ASOS station 0CO, Berthoud Pass\nmap\nTemperature: monthly maximum, average, minimum in degrees C \n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
+    "text": "Data from ASOS station 0CO, Berthoud Pass\n\n\n\nmap\n\n\nTemperature: monthly maximum, average, minimum in degrees C \n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
   },
   {
     "objectID": "Projects.html#snow-hydrology",
     "href": "Projects.html#snow-hydrology",
     "title": "Projects",
-    "section": "",
-    "text": "Data from ASOS station 0CO, Berthoud Pass\nmap\nTemperature: monthly maximum, average, minimum in degrees C \n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
+    "section": "Snow Hydrology",
+    "text": "Snow Hydrology\nData from ASOS station 0CO, Berthoud Pass\n\n\n\nmap\n\n\nTemperature: monthly maximum, average, minimum in degrees C \n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
   },
   {
     "objectID": "Projects.html#name",
@@ -40,5 +40,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Projects.html#thesis-1",
+    "href": "Projects.html#thesis-1",
+    "title": "Projects",
+    "section": "Thesis",
+    "text": "Thesis"
+  },
+  {
+    "objectID": "Projects.html#from-yuck-to-yes-what-drives-acceptance-of-potable-water-reuse",
+    "href": "Projects.html#from-yuck-to-yes-what-drives-acceptance-of-potable-water-reuse",
+    "title": "Projects",
+    "section": "From Yuck to Yes: What Drives Acceptance of Potable Water Reuse",
+    "text": "From Yuck to Yes: What Drives Acceptance of Potable Water Reuse"
   }
 ]
