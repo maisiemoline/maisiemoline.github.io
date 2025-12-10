@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "maisiemoline.github.io"
+  title: "Maisie Moline"
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,7 @@ format:
       - brand
       - styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
