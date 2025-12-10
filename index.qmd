@@ -8,8 +8,10 @@ about:
   image-width: 17em
   links:
     - text: GitHub
+      icon: github
       href: https://github.com/maisiemoline
     - text: Email
+      icon: envelope
       href: mailto:maisie.moline@colostate.edu
 ---
 
@@ -17,6 +19,4 @@ Hello, my name is Maisie Moline. I am a watershed science major with Global Envi
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+

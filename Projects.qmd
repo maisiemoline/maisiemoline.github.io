@@ -3,3 +3,98 @@ title: "Projects"
 format: html
 ---
 
+##  Snow Hydrology
+
+*Data from ASOS station 0CO, Berthoud Pass*
+
+```{r, include==FALSE,message=FALSE,warning=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(viridis)
+library(stringr)
+
+ASOS<-read.csv("data/0CO_works copy.csv")
+
+
+ASOS <- ASOS %>%
+  mutate(wind_speed_ms = as.numeric(sknt) * 0.514)%>%
+  mutate(valid = mdy(valid))
+
+
+windassign <- ASOS %>%
+  mutate(month = month(valid)) %>%
+  group_by(month) %>%
+  summarise(
+    avg_wind = mean(wind_speed_ms, na.rm = TRUE),
+    max_wind = max(wind_speed_ms, na.rm = TRUE)
+  )
+  
+
+windassign <- ASOS %>%
+  mutate(
+    month_date = floor_date(valid, "month"),                 
+    month_lab = month(valid, label = TRUE, abbr = TRUE)
+  ) %>%
+  group_by(month_date, month_lab) %>%
+  summarise(
+    avg_wind = mean(wind_speed_ms, na.rm = TRUE),
+    max_wind = max(wind_speed_ms, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+sy_months <- c("Sep","Oct","Nov","Dec","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug")
+
+windassign <- windassign %>%
+  mutate(month_lab = factor(month_lab, levels = sy_months))
+
+
+
+```
+
+
+**Wind Rose**
+
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE}
+wind_direct <- ASOS %>%
+  mutate(
+    wind_type = case_when(
+      drct == 0 ~ "Calm",
+      drct == "VRB" ~ "Variable",
+      TRUE ~ "Directional"
+    ), sector = ifelse(wind_type == "Directional",
+                    floor((as.numeric(drct) + 5) / 10) * 10, NA) 
+  )%>%filter(!is.na(drct))
+
+
+
+wind_freq <- wind_direct %>%
+  group_by(sector, wind_type) %>%
+  summarise(n = n(), .groups = "drop") %>%
+  mutate(percent = n / sum(n) * 100) %>%
+  filter(wind_type == "Directional") %>%
+  filter(!is.na(sector))
+
+
+max_pct <- ceiling(max(wind_freq$percent))
+
+ggplot(wind_freq, aes(x = factor(sector), y = percent, fill = percent)) +
+  geom_bar(stat = "identity", color = "black", size = 0.1) +
+  coord_polar(start = pi/36) +
+  scale_fill_viridis_c(option = "C", name = "Frequency (%)") +
+  labs(
+    x = "Wind Direction (°)",
+    y = NULL,
+    caption = "Figure 5. Wind rose direction at ASOS station 0CO – Berthoud Pass for snow year 2024. Data sourced from NCDC. Rose 
+split into 36 sectors where 360° is north. A wind direction of 0 is no wind so it has been extracted from this graph. 0 appeared 
+in the snow year 52 times in hourly data.There is also 435 missing wind entries from this data and no variable (VRB) wind."
+
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.y = element_blank(),axis.ticks.y = element_blank()
+  )+theme(
+    axis.text.y = element_blank(),
+    plot.caption = element_text(vjust = -0.5,hjust = 0.25))
+```
+
