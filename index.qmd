@@ -1,6 +1,6 @@
 ---
 title: "Maisie Moline"
-image: media/lgsk6.jpeg
+image: media/IMG_3522.JPG
 toc: false
 about: 
   template: jolla
@@ -17,6 +17,5 @@ about:
 
 Hello, my name is Maisie Moline. I am a watershed science major with Global Environmental Sustainability and Statistics minors. Growing up in Colorado has fostered a concern and appreciation for water issues in the West. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 

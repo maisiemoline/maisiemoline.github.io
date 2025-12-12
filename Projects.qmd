@@ -9,8 +9,9 @@ format: html
 Growing water scarcity and climate pressures are driving the exploration of alternative drinking-water sources, including potable reuse. Potable reuse offers a reliable and climate-resilient source of water, yet public acceptance presents a major obstacle to widespread adoption. This review synthesizes research on the sensory, physiological, and psychological factors that shape how people evaluate drinking water and relates these concepts to three case studies of reuse programs in Colorado, California, and Singapore. These findings reveal that outreach efforts should consider the presentation of potable reuse water, including its name, the platforms used, and the messengers delivering the information. Strategies should be specific to audiences and use engaging, memorable educational methods. Consistency across treatment plants and an interdisciplinary approach further strengthen public confidence and program success. This review provides a framework for integrating sensory science, psychology, and communication practices to support the development of safe, publicly accepted potable reuse systems.
 
 
-# Bear Creek Lake Park Sign
+## Bear Creek Lake Park Sign
 ![Horsetooth](media/BCLP_sign.png)
+
 
 
 ## [Research Proposal: Assessing Human Health Risks and Prevalence of De Facto Reuse in Drinking Water](media/Research Proposal .pdf)
@@ -38,6 +39,7 @@ ecosystems.
 ![Horsetooth](media/horsetooth.png)
 
 ##  Snow Hydrology
+Here are some graphs and calculations from Snow Hydrology.
 
 *Data from ASOS station 0CO, Berthoud Pass*
 

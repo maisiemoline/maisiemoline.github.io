@@ -1,0 +1,23 @@
+color:
+  palette:
+    mint: "#E0EFDE"
+    charcoal: "#162627"
+    light-charcoal: "#243e3f"
+    purple: "#8A7090"
+    light-purple: "#d0a8d8"
+    white-ish: "#EFE9E3"
+    green: "#A3B087"
+    teal:  "#435663"
+    dark-blue: "#313647"
+
+  foreground: charcoal
+  background: white-ish
+  primary: teal
+typography:
+  fonts:
+    - family: "Inter"
+      source: google
+    - family: "Merriweather"
+      source: google
+  link:
+    color: teal

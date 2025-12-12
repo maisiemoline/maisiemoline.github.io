@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Maisie Moline",
     "section": "",
-    "text": "Hello, my name is Maisie Moline. I am a watershed science major with Global Environmental Sustainability and Statistics minors. Growing up in Colorado has fostered a concern and appreciation for water issues in the West.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello, my name is Maisie Moline. I am a watershed science major with Global Environmental Sustainability and Statistics minors. Growing up in Colorado has fostered a concern and appreciation for water issues in the West."
   },
   {
     "objectID": "Projects.html",
@@ -25,7 +25,7 @@
     "href": "Projects.html#snow-hydrology",
     "title": "Projects",
     "section": "Snow Hydrology",
-    "text": "Snow Hydrology\nData from ASOS station 0CO, Berthoud Pass\n\n\n\nmap\n\n\nTemperature: monthly maximum, average, minimum in degrees C \n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
+    "text": "Snow Hydrology\nHere are some graphs and calculations from Snow Hydrology.\nData from ASOS station 0CO, Berthoud Pass\n\n\n\nmap\n\n\nTemperature: monthly maximum, average, minimum in degrees C \n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
   },
   {
     "objectID": "Projects.html#name",
@@ -39,7 +39,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About me\nI am from Colorado, a headwater state often the center of water conflicts, resulting in my interest in water. Water is a resource able to connect every living thing, but it also has the power to divide. This is part of the reason I chose to study Watershed Science and Sustainability at Colorado State. When I first entered school, I was unsure of what I wanted to do, but I was naturally drawn to this major because of my love and interest in water. I am passionate about understanding and managing water resources, especially in ways that promote sustainability and equity. With a minor in Statistics and Global Environmental Sustainability, I aim to combine scientific analysis with sustainable practices to address unique challenges. My ambitions lie in working with municipalities to manage resources effectively, taking into account both environmental concerns and community needs, especially as water scarcity and quality issues persist in the West.\nThrough my coursework and field studies, I have developed a strong foundation in watershed topics including hydrology, water quality, water law and policy, and statistical analysis. Water quality tools I have experience with include Secchi disks, Van Dorn samplers, Sondes, and plankton nets. Additionally, I have worked measuring streamflow with cross-sectional surveys utilizing tools such as pygmy current meters. Using data gathered from these tools, I have assessed watershed characteristics such as trophic state with the assistance of R programming and Excel for data analysis and visualization. This has strengthened my ability to collect and interpret environmental data."
+    "text": "About me\nI am from Colorado, a headwater state often the center of water conflicts, resulting in my interest in water. Water is a resource able to connect every living thing, but it also has the power to divide. This is part of the reason I chose to study Watershed Science and Sustainability at Colorado State. When I first entered school, I was unsure of what I wanted to do, but I was naturally drawn to this major because of my love and interest in water. I am passionate about understanding and managing water resources, especially in ways that promote sustainability and equity. With a minor in Statistics and Global Environmental Sustainability, I aim to combine scientific analysis with sustainable practices to address unique challenges. My ambitions lie in working with municipalities to manage resources effectively, taking into account both environmental concerns and community needs, especially as water scarcity and quality issues persist in the West.\nThrough my coursework and field studies, I have developed a strong foundation in watershed topics including hydrology, water quality, water law and policy, and statistical analysis. Water quality tools I have experience with include Secchi disks, Van Dorn samplers, Sondes, and plankton nets. Additionally, I have worked measuring streamflow with cross-sectional surveys utilizing tools such as pygmy current meters. Using data gathered from these tools, I have assessed watershed characteristics such as trophic state with the assistance of R programming and Excel for data analysis and visualization. This has strengthened my ability to collect and interpret environmental data.\nWhen I’m not at school, I enjoy spending time with my pets or doing a craft.\nSonny and Cher"
   },
   {
     "objectID": "Projects.html#thesis-1",
@@ -96,5 +96,12 @@
     "title": "Projects",
     "section": "Limnology Study of Horsetooth Reservoir in Fort Collins, Co",
     "text": "Limnology Study of Horsetooth Reservoir in Fort Collins, Co\n\n\n\nHorsetooth"
+  },
+  {
+    "objectID": "Projects.html#bear-creek-lake-park-sign",
+    "href": "Projects.html#bear-creek-lake-park-sign",
+    "title": "Projects",
+    "section": "Bear Creek Lake Park Sign",
+    "text": "Bear Creek Lake Park Sign\n\n\n\nHorsetooth"
   }
 ]
