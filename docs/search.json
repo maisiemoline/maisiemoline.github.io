@@ -39,7 +39,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About me\nI am from Colorado, a headwater state often the center of water conflicts, resulting in my interest in water. Water is a resource able to connect every living thing, but it also has the power to divide. This is part of the reason I chose to study Watershed Science and Sustainability at Colorado State. When I first entered school, I was unsure of what I wanted to do, but I was naturally drawn to this major because of my love and interest in water. I am passionate about understanding and managing water resources, especially in ways that promote sustainability and equity. With a minor in Statistics and Global Environmental Sustainability, I aim to combine scientific analysis with sustainable practices to address unique challenges. My ambitions lie in working with municipalities to manage resources effectively, taking into account both environmental concerns and community needs, especially as water scarcity and quality issues persist in the West.\nThrough my coursework and field studies, I have developed a strong foundation in watershed topics including hydrology, water quality, water law and policy, and statistical analysis. Water quality tools I have experience with include Secchi disks, Van Dorn samplers, Sondes, and plankton nets. Additionally, I have worked measuring streamflow with cross-sectional surveys utilizing tools such as pygmy current meters. Using data gathered from these tools, I have assessed watershed characteristics such as trophic state with the assistance of R programming and Excel for data analysis and visualization. This has strengthened my ability to collect and interpret environmental data."
   },
   {
     "objectID": "Projects.html#thesis-1",
@@ -89,5 +89,12 @@
     "title": "Projects",
     "section": "Research Proposal: Assessing Human Health Risks and Prevalence of De Facto Reuse in Drinking Water",
     "text": "Research Proposal: Assessing Human Health Risks and Prevalence of De Facto Reuse in Drinking Water\nThis mock study aims to better understand the impact of de facto water reuse on public health and the environment. De facto reuse occurs when untreated or partially treated wastewater is unintentionally incorporated into drinking water sources. The study has two main objectives: first, to develop tools and models for water utilities to assess the effects of de facto reuse on water quality, and second, to evaluate the potential health risks by comparing water sources impacted by wastewater effluent to less-impacted sources, such as headwaters. The research will examine both pathogens and a range of chemical contaminants, including perfluoroalkyl and polyfluoroalkyl substances (PFA’)s and dibutyl phthalate (DBP’s), which are both classifiable carcinogens. Water samples will be collected from the Colorado River in Colorado and Utah at two sites in addition to natural control sites, and toxicity tests will be conducted using fathead minnows (Pimephales promelas). Statistical analyses will identify significant differences in water quality across sites and seasons. This study will provide important data for risk assessments, improving water quality standards, and shaping policies to manage water resources amid increasing scarcity and climate change. The findings will help create sustainable water reuse strategies, especially in areas affected by climate change, protecting both human and environmental health as water reuse grows. The research will also offer insights into the ecological impacts of de facto reuse, highlighting the need for water management practices that balance human needs with the health of aquatic ecosystems."
+  },
+  {
+    "objectID": "Projects.html#limnology-study-of-horsetooth-reservoir-in-fort-collins-co",
+    "href": "Projects.html#limnology-study-of-horsetooth-reservoir-in-fort-collins-co",
+    "title": "Projects",
+    "section": "Limnology Study of Horsetooth Reservoir in Fort Collins, Co",
+    "text": "Limnology Study of Horsetooth Reservoir in Fort Collins, Co\n\n\n\nHorsetooth"
   }
 ]
