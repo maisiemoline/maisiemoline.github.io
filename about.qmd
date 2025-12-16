@@ -1,17 +1,74 @@
 ---
-title: "About"
+title: "More About Me"
+---
+### Background & Motivation
+
+I am from Colorado, a headwater state that is often at the center of water conflicts, which has shaped my interest in water resources. Water is a resource that connects every living thing, yet it also has the power to divide. This contrast is a major reason I chose to study Watershed Science and Sustainability at Colorado State University.
+
+When I first entered college, I was unsure of what path I wanted to pursue, but I was naturally drawn to this major because of my long-standing interest in water. I am passionate about understanding and managing water resources in ways that promote sustainability and equity. With minors in Statistics and Global Environmental Sustainability, I aim to combine scientific analysis with sustainable practices to address complex challenges. My long-term goal is to work with municipalities to manage water resources effectively, considering both environmental concerns and community needs as water scarcity and quality issues continue to affect the Western U.S.
+
 ---
 
-**About me**
+### Academic & Field Experience
+
+My coursework emphasizes the integration of hydrology, water quality, data analysis, and policy to address complex watershed and water resource challenges.
 
 
-  I am from Colorado, a headwater state often the center of water conflicts, resulting in my interest in water. Water is a resource able to connect every living thing, but it also has the power to divide. This is part of the reason I chose to study Watershed Science and Sustainability at Colorado State. When I first entered school, I was unsure of what I wanted to do, but I was naturally drawn to this major because of my love and interest in water. I am passionate about understanding and managing water resources, especially in ways that promote sustainability and equity. With a minor in Statistics and Global Environmental Sustainability, I aim to combine scientific analysis with sustainable practices to address unique challenges. My ambitions lie in working with municipalities to manage resources effectively, taking into account both environmental concerns and community needs, especially as water scarcity and quality issues persist in the West. 
+**Hydrology & Watershed Science**
+- Snow Hydrology  
+- Hydrogeology 
+- Land Use Hydrology  
+- Watershed Measurements 
+- Watershed Problem Analysis  
+- Watershed Field Practicum  
+
+**Water Quality, Limnology & Ecology**
+- Limnology  
+- Land Use and Water Quality  
+- Natural Resource Ecology and Measurements  
 
 
-  Through my coursework and field studies, I have developed a strong foundation in watershed topics including hydrology, water quality, water law and policy, and statistical analysis. Water quality tools I have experience with include Secchi disks, Van Dorn samplers, Sondes, and plankton nets. Additionally, I have worked measuring streamflow with cross-sectional surveys utilizing tools such as pygmy current meters. Using data gathered from these tools, I have assessed watershed characteristics such as trophic state with the assistance of R programming and Excel for data analysis and visualization. This has strengthened my ability to collect and interpret environmental data.
+**Statistics, Data Science & Computing**
+- Environmental Data Science Applications
+- Statistical Data Analysis
+- Bayesian Data Analysis  
+- Inferential Reasoning in Data Analysis  
 
 
-When I’m not at school, I enjoy spending time with my pets or doing a craft.
+**Policy, Climate & Sustainability**
+- Water Law, Policy, and Institutions  
+- Global Climate Change  
+- Applications of Environmental Sustainability  
+- Water Sustainability in the Western U.S.  
+- Issues in Environmental Economics  
+
+
+### Field & Measurement Skills
+
+I have hands-on experience collecting environmental and hydrologic data through coursework and field-based projects. My experience includes the use of a variety of water quality, ecological, and hydrologic measurement techniques.
+
+**Water Quality & Aquatic Sampling**
+- Secchi disk measurements for water clarity  
+- Van Dorn samplers for depth-specific water sampling  
+- Multiparameter sondes for in situ water quality measurements  
+- Plankton nets for biological sampling  
+
+**Hydrology & Flow Measurements**
+- Streamflow measurements using pygmy current meters and cross-sectional survey methods  
+- Snowpack measurements using a federal snow sampler  
+- Groundwater characterization using slug tests  
+
+**Terrestrial & Watershed Measurements**
+- Tree measurements including diameter at breast height (DBH) and species identification  
+- Shrub and forb transects for vegetation composition and cover assessment  
+
+Using data collected from these methods, I have assessed watershed characteristics such as trophic state, with analysis and visualization performed in **R** and **Excel**. These experiences have strengthened my ability to collect, analyze, and interpret environmental data.
+
+---
+
+### Outside of School
+
+When I’m not at school, I enjoy spending time with my pets or working on different craft projects.
 
 **Sonny and Cher**
 

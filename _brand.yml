@@ -15,9 +15,17 @@ color:
   primary: teal
 typography:
   fonts:
-    - family: "Inter"
+    - family: "Barlow"
       source: google
-    - family: "Merriweather"
+    - family: "Albert Sans"
       source: google
+  base:
+    family: Barlow
+    size: 1rem
+  headings:
+    family: Albert Sans
+    weight: 500
+    color: charcoal
+
   link:
     color: teal
