@@ -15,31 +15,50 @@ My coursework emphasizes the integration of hydrology, water quality, data analy
 
 
 **Hydrology & Watershed Science**
+
 - Snow Hydrology  
+
 - Hydrogeology 
+
 - Land Use Hydrology  
+
 - Watershed Measurements 
-- Watershed Problem Analysis  
+
+- Watershed Problem Analysis 
+
 - Watershed Field Practicum  
 
 **Water Quality, Limnology & Ecology**
+
 - Limnology  
-- Land Use and Water Quality  
+
+- Land Use and Water Quality 
+
 - Natural Resource Ecology and Measurements  
 
 
 **Statistics, Data Science & Computing**
+
 - Environmental Data Science Applications
+
 - Statistical Data Analysis
+
 - Bayesian Data Analysis  
+
 - Inferential Reasoning in Data Analysis  
 
 
+
 **Policy, Climate & Sustainability**
+
 - Water Law, Policy, and Institutions  
+
 - Global Climate Change  
+
 - Applications of Environmental Sustainability  
+
 - Water Sustainability in the Western U.S.  
+
 - Issues in Environmental Economics  
 
 
@@ -48,19 +67,29 @@ My coursework emphasizes the integration of hydrology, water quality, data analy
 I have hands-on experience collecting environmental and hydrologic data through coursework and field-based projects. My experience includes the use of a variety of water quality, ecological, and hydrologic measurement techniques.
 
 **Water Quality & Aquatic Sampling**
+
 - Secchi disk measurements for water clarity  
+
 - Van Dorn samplers for depth-specific water sampling  
+
 - Multiparameter sondes for in situ water quality measurements  
+
 - Plankton nets for biological sampling  
 
 **Hydrology & Flow Measurements**
+
 - Streamflow measurements using pygmy current meters and cross-sectional survey methods  
+
 - Snowpack measurements using a federal snow sampler  
+
 - Groundwater characterization using slug tests  
 
 **Terrestrial & Watershed Measurements**
+
 - Tree measurements including diameter at breast height (DBH) and species identification  
+
 - Shrub and forb transects for vegetation composition and cover assessment  
+
 
 Using data collected from these methods, I have assessed watershed characteristics such as trophic state, with analysis and visualization performed in **R** and **Excel**. These experiences have strengthened my ability to collect, analyze, and interpret environmental data.
 
@@ -68,7 +97,7 @@ Using data collected from these methods, I have assessed watershed characteristi
 
 ### Outside of School
 
-When I’m not at school, I enjoy spending time with my pets or working on different craft projects.
+When I’m not at school, I enjoy spending time with my pets or working on a craft project!
 
 **Sonny and Cher**
 
