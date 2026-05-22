@@ -1,41 +1,40 @@
 ---
 title: "More About Me"
 ---
+
 ### Background & Motivation
 
 I am from Colorado, a headwater state that is often at the center of water conflicts, which has shaped my interest in water resources. Water is a resource that connects every living thing, yet it also has the power to divide. This contrast is a major reason I chose to study Watershed Science and Sustainability at Colorado State University.
 
 When I first entered college, I was unsure of what path I wanted to pursue, but I was naturally drawn to this major because of my long-standing interest in water. I am passionate about understanding and managing water resources in ways that promote sustainability and equity. With minors in Statistics and Global Environmental Sustainability, I aim to combine scientific analysis with sustainable practices to address complex challenges. My long-term goal is to work with municipalities to manage water resources effectively, considering both environmental concerns and community needs as water scarcity and quality issues continue to affect the Western U.S.
 
----
+------------------------------------------------------------------------
 
 ### Academic & Field Experience
 
 My coursework emphasizes the integration of hydrology, water quality, data analysis, and policy to address complex watershed and water resource challenges.
 
-
 **Hydrology & Watershed Science**
 
-- Snow Hydrology  
+- Snow Hydrology
 
-- Hydrogeology 
+- Hydrogeology
 
-- Land Use Hydrology  
+- Land Use Hydrology
 
-- Watershed Measurements 
+- Watershed Measurements
 
-- Watershed Problem Analysis 
+- Watershed Problem Analysis
 
-- Watershed Field Practicum  
+- Watershed Field Practicum
 
 **Water Quality, Limnology & Ecology**
 
-- Limnology  
+- Limnology
 
-- Land Use and Water Quality 
+- Land Use and Water Quality
 
-- Natural Resource Ecology and Measurements  
-
+- Natural Resource Ecology and Measurements
 
 **Statistics, Data Science & Computing**
 
@@ -43,24 +42,21 @@ My coursework emphasizes the integration of hydrology, water quality, data analy
 
 - Statistical Data Analysis
 
-- Bayesian Data Analysis  
+- Bayesian Data Analysis
 
-- Inferential Reasoning in Data Analysis  
-
-
+- Inferential Reasoning in Data Analysis
 
 **Policy, Climate & Sustainability**
 
-- Water Law, Policy, and Institutions  
+- Water Law, Policy, and Institutions
 
-- Global Climate Change  
+- Global Climate Change
 
-- Applications of Environmental Sustainability  
+- Applications of Environmental Sustainability
 
-- Water Sustainability in the Western U.S.  
+- Water Sustainability in the Western U.S.
 
-- Issues in Environmental Economics  
-
+- Issues in Environmental Economics
 
 ### Field & Measurement Skills
 
@@ -68,32 +64,31 @@ I have hands-on experience collecting environmental and hydrologic data through 
 
 **Water Quality & Aquatic Sampling**
 
-- Secchi disk measurements for water clarity  
+- Secchi disk measurements for water clarity
 
-- Van Dorn samplers for depth-specific water sampling  
+- Van Dorn samplers for depth-specific water sampling
 
-- Multiparameter sondes for in situ water quality measurements  
+- Multiparameter sondes for in situ water quality measurements
 
-- Plankton nets for biological sampling  
+- Plankton nets for biological sampling
 
 **Hydrology & Flow Measurements**
 
-- Streamflow measurements using pygmy current meters and cross-sectional survey methods  
+- Streamflow measurements using pygmy current meters and cross-sectional survey methods
 
-- Snowpack measurements using a federal snow sampler  
+- Snowpack measurements using a federal snow sampler
 
-- Groundwater characterization using slug tests  
+- Groundwater characterization using slug tests
 
 **Terrestrial & Watershed Measurements**
 
-- Tree measurements including diameter at breast height (DBH) and species identification  
+- Tree measurements including diameter at breast height (DBH) and species identification
 
-- Shrub and forb transects for vegetation composition and cover assessment  
-
+- Shrub and forb transects for vegetation composition and cover assessment
 
 Using data collected from these methods, I have assessed watershed characteristics such as trophic state, with analysis and visualization performed in **R** and **Excel**. These experiences have strengthened my ability to collect, analyze, and interpret environmental data.
 
----
+------------------------------------------------------------------------
 
 ### Outside of School
 
@@ -101,8 +96,6 @@ When I’m not at school, I enjoy spending time with my pets or working on a cra
 
 **Sonny and Cher**
 
-<div style="display: flex; gap: 20px;">
-  <img src="media/Cher.png" style="width:45%; border-radius:10px;">
-  <img src="media/Sonny.png" style="width:45%; border-radius:10px;">
-</div>
-
+::: {style="display: flex; gap: 20px;"}
+<img src="media/Cher.png" style="width:45%; border-radius:10px;"/> <img src="media/Sonny.png" style="width:45%; border-radius:10px;"/>
+:::

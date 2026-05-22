@@ -3,42 +3,62 @@ title: "Projects"
 format: html
 ---
 
+## [Following the Flow: PFAS Detection Patterns Across Colorado](media/WR%20440%20PFAS.pdf)
 
-## [From Yuck to Yes: What Drives Acceptance of Potable Water Reuse](media/Thesis copy.pdf)
+![PFAS Detections in Colorado](media/sitemap_pfas.png)
+
+Per- and polyfluoroalkyl substances (PFAS) are a large class of synthetic chemicals that have been manufactured since the 1940s for a multitude of purposes. Their widespread use and environmental persistence have led to growing concern about their presence in natural and drinking water systems. This report uses data from the EPA Fifth Unregulated Contaminant Monitoring Rule Data Finder, filtered to the state of Colorado, to analyze PFAS spatially and across different different public water systems of different sizes and using different water types.
+
+## [From Yuck to Yes: What Drives Acceptance of Potable Water Reuse](media/Thesis%20copy.pdf)
 
 Growing water scarcity and climate pressures are driving the exploration of alternative drinking-water sources, including potable reuse. Potable reuse offers a reliable and climate-resilient source of water, yet public acceptance presents a major obstacle to widespread adoption. This review synthesizes research on the sensory, physiological, and psychological factors that shape how people evaluate drinking water and relates these concepts to three case studies of reuse programs in Colorado, California, and Singapore. These findings reveal that outreach efforts should consider the presentation of potable reuse water, including its name, the platforms used, and the messengers delivering the information. Strategies should be specific to audiences and use engaging, memorable educational methods. Consistency across treatment plants and an interdisciplinary approach further strengthen public confidence and program success. This review provides a framework for integrating sensory science, psychology, and communication practices to support the development of safe, publicly accepted potable reuse systems.
 
-
 ## Bear Creek Lake Park Sign
-![Horsetooth](media/BCLP_sign.png)
 
+![Bear Creek Lake](media/BCLP_sign.png)\
 
+## Environmental Data Science Applications: Water Resources
 
-## [Research Proposal: Assessing Human Health Risks and Prevalence of De Facto Reuse in Drinking Water](media/Research Proposal .pdf)
+This course focuses on analyzing and understanding water resources through the lens of modern data science. We examine key innovations in data science, geospatial processing and machine learning for hydrological prediction and model parameterization — with an emphasis using real data.
 
-This mock study aims to better understand the impact of de facto water reuse on public health and the environment. De facto reuse occurs when untreated or partially treated wastewater is unintentionally incorporated into drinking water sources. The study has two main objectives: first, to develop tools 
-and models for water utilities to assess the effects of de facto reuse on water quality, and second,
-to evaluate the potential health risks by comparing water sources impacted by wastewater effluent to
-less-impacted sources, such as headwaters. The research will examine both pathogens and a
-range of chemical contaminants, including perfluoroalkyl and polyfluoroalkyl substances (PFA’)s
-and dibutyl phthalate (DBP’s), which are both classifiable carcinogens. Water samples will be
-collected from the Colorado River in Colorado and Utah at two sites in addition to natural
-control sites, and toxicity tests will be conducted using fathead minnows (Pimephales promelas).
-Statistical analyses will identify significant differences in water quality across sites and seasons.
-This study will provide important data for risk assessments, improving water quality standards,
-and shaping policies to manage water resources amid increasing scarcity and climate change.
-The findings will help create sustainable water reuse strategies, especially in areas affected by
-climate change, protecting both human and environmental health as water reuse grows. The
-research will also offer insights into the ecological impacts of de facto reuse, highlighting the
-need for water management practices that balance human needs with the health of aquatic
-ecosystems.
+### [Exploring Streamflow Across the Colorado River Basin](https://maisiemoline.github.io/2026-ESS-523c/lab-01.html)
 
+![](media/Lab1pic.png) This lab works with streamflow records pulled directly from the USGS National Water Information System (NWIS) to build a complete analytical pipeline to answer the question: How has Lees Ferry flow changed? To answer this question, this lab utilizes raw API call to normalized comparisons, threshold detection, basin-wide trend visualization, and a predictive model of the Compact’s key accounting point.
 
+### [Distances and Projections](https://maisiemoline.github.io/2026-ESS-523c/lab-02.html)
+
+![](media/lab2pic.png) Built and manipulated spatial datasets using sf, including coordinate transformations, geometry operations, and distance calculations. Applied vector spatial analysis techniques to measure and visualize distances between U.S. cities and national borders, culminating in an interactive web map exploring the “100-mile border zone” policy.
+
+### [National Dam Inventory (NID): From Counts to Local Clustering](https://maisiemoline.github.io/2026-ESS-523c/lab-03.html)
+
+![Local Indicators of Spatial Association (LISA). Quadrant dam distributions for hexagon and county tesselations. (H=high, L=low)](media/Lab3pic.png)
+
+Analyzed \~90,000 U.S. dams using tessellated spatial grids including Voronoi, Delaunay, square, and hexagonal partitions. Developed functions for spatial aggregation and visualization while exploring the Modifiable Areal Unit Problem (MAUP).
+
+\###[Palo Iowa Flooding](https://maisiemoline.github.io/2026-ESS-523c/lab-04.html)
+
+![](media/Lab4pic.png)
+
+Used Landsat 8 satellite imagery and raster analysis techniques to map flooding near Palo, Iowa following the 2016 flood event. Processed multispectral imagery, created true- and false-color composites, and classified inundated areas through raster thresholding and pre/post flood comparisons.
+
+### \[Machine Learning in Hydrology\] (https://maisiemoline.github.io/2026-ESS-523c/lab-05.html)
+
+![](media/lab5pic.png) Built predictive hydrology models using the CAMELS watershed dataset and the tidymodels framework. Compared multiple machine learning approaches, evaluated spatial versus random cross-validation performance, analyzed variable importance, and explored how spatial leakage can inflate model accuracy estimates.
+
+\###[Modeltime to predict future streamflow on the Cache la Poudre River](https://maisiemoline.github.io/2026-ESS-523c/lab-06.html)
+
+![](media/lab6pic.png) Developed time series forecasting models for the Cache la Poudre River using historical streamflow and climate data. Combined GridMET and MACA climate predictors with modeltime workflows to generate climate-conditioned streamflow forecasts and evaluate future hydrologic variability.
+
+## [Research Proposal: Assessing Human Health Risks and Prevalence of De Facto Reuse in Drinking Water](media/Research%20Proposal%20.pdf)
+
+This mock study aims to better understand the impact of de facto water reuse on public health and the environment. De facto reuse occurs when untreated or partially treated wastewater is unintentionally incorporated into drinking water sources. The study has two main objectives: first, to develop tools and models for water utilities to assess the effects of de facto reuse on water quality, and second, to evaluate the potential health risks by comparing water sources impacted by wastewater effluent to less-impacted sources, such as headwaters. The research will examine both pathogens and a range of chemical contaminants, including perfluoroalkyl and polyfluoroalkyl substances (PFA’)s and dibutyl phthalate (DBP’s), which are both classifiable carcinogens. Water samples will be collected from the Colorado River in Colorado and Utah at two sites in addition to natural control sites, and toxicity tests will be conducted using fathead minnows (Pimephales promelas). Statistical analyses will identify significant differences in water quality across sites and seasons. This study will provide important data for risk assessments, improving water quality standards, and shaping policies to manage water resources amid increasing scarcity and climate change. The findings will help create sustainable water reuse strategies, especially in areas affected by climate change, protecting both human and environmental health as water reuse grows. The research will also offer insights into the ecological impacts of de facto reuse, highlighting the need for water management practices that balance human needs with the health of aquatic ecosystems.
 
 ## [Limnology Study of Horsetooth Reservoir in Fort Collins, Co](media/lim_proj.pdf)
+
 ![Horsetooth](media/horsetooth.png)
 
-##  Snow Hydrology
+## Snow Hydrology
+
 Here are some graphs and calculations from Snow Hydrology.
 
 *Data from ASOS station 0CO, Berthoud Pass*
@@ -89,8 +109,7 @@ windassign <- windassign %>%
 
 ```
 
-
-**Temperature: monthly maximum, average, minimum in degrees C **
+**Temperature: monthly maximum, average, minimum in degrees C**
 
 ```{r, echo=FALSE,message=FALSE,warning=FALSE}
 
@@ -125,9 +144,7 @@ Berthoud Pass. Data sourced from NCDC "
 
 ```
 
-
 **Precipitation:monthly totals mm**
-
 
 ```{r, echo=FALSE}
 
@@ -139,9 +156,7 @@ station 0CO - Berthoud Pass. Data sourced from NCDC.") + theme_bw()+theme(panel.
 
 ```
 
-
 **Wind Rose**
-
 
 ```{r, echo=FALSE,message=FALSE,warning=FALSE}
 wind_direct <- ASOS %>%
@@ -185,6 +200,3 @@ in the snow year 52 times in hourly data.There is also 435 missing wind entries 
     axis.text.y = element_blank(),
     plot.caption = element_text(vjust = -0.5,hjust = 0.25))
 ```
-
-
-
