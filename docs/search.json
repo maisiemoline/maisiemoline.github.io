@@ -11,21 +11,21 @@
     "href": "index.html",
     "title": "Maisie Moline",
     "section": "",
-    "text": "Hello, my name is Maisie Moline. I am a watershed science major with Global Environmental Sustainability and Statistics minors. Growing up in Colorado has fostered a concern and appreciation for water issues in the West.\n\nEducation\nColorado State University\nB.S. in Watershed Science\nMinors in Global Environmental Sustainability and Statistics\nExpected May 2026\nProfessional Science Master’s Ecosystem Science and Sustainability: Water Resources Expected August 2027"
+    "text": "Hello, my name is Maisie Moline. I am a watershed science major with Global Environmental Sustainability and Statistics minors. Growing up in Colorado has fostered a concern and appreciation for water issues in the West.\n\nEducation\nColorado State University\nB.S. in Watershed Science\nMinors in Global Environmental Sustainability and Statistics\nMay 2026\nProfessional Science Master’s Ecosystem Science and Sustainability: Water Resources\nExpected August 2027"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Growing water scarcity and climate pressures are driving the exploration of alternative drinking-water sources, including potable reuse. Potable reuse offers a reliable and climate-resilient source of water, yet public acceptance presents a major obstacle to widespread adoption. This review synthesizes research on the sensory, physiological, and psychological factors that shape how people evaluate drinking water and relates these concepts to three case studies of reuse programs in Colorado, California, and Singapore. These findings reveal that outreach efforts should consider the presentation of potable reuse water, including its name, the platforms used, and the messengers delivering the information. Strategies should be specific to audiences and use engaging, memorable educational methods. Consistency across treatment plants and an interdisciplinary approach further strengthen public confidence and program success. This review provides a framework for integrating sensory science, psychology, and communication practices to support the development of safe, publicly accepted potable reuse systems."
+    "text": "PFAS Detections in Colorado\n\n\nPer- and polyfluoroalkyl substances (PFAS) are a large class of synthetic chemicals that have been manufactured since the 1940s for a multitude of purposes. Their widespread use and environmental persistence have led to growing concern about their presence in natural and drinking water systems. This report uses data from the EPA Fifth Unregulated Contaminant Monitoring Rule Data Finder, filtered to the state of Colorado, to analyze PFAS spatially and across different different public water systems of different sizes and using different water types."
   },
   {
     "objectID": "Projects.html#snow-hydrology",
     "href": "Projects.html#snow-hydrology",
     "title": "Projects",
     "section": "Snow Hydrology",
-    "text": "Snow Hydrology\nHere are some graphs and calculations from Snow Hydrology.\nData from ASOS station 0CO, Berthoud Pass\n\n\n\nmap\n\n\nTemperature: monthly maximum, average, minimum in degrees C \n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
+    "text": "Snow Hydrology\nHere are some graphs and calculations from Snow Hydrology.\nData from ASOS station 0CO, Berthoud Pass\n\n\n\nmap\n\n\nTemperature: monthly maximum, average, minimum in degrees C\n\n\n\n\n\n\n\n\n\nPrecipitation:monthly totals mm\n\n\n\n\n\n\n\n\n\nWind Rose"
   },
   {
     "objectID": "Projects.html#name",
@@ -52,8 +52,8 @@
     "objectID": "Projects.html#from-yuck-to-yes-what-drives-acceptance-of-potable-water-reuse",
     "href": "Projects.html#from-yuck-to-yes-what-drives-acceptance-of-potable-water-reuse",
     "title": "Projects",
-    "section": "",
-    "text": "Growing water scarcity and climate pressures are driving the exploration of alternative drinking-water sources, including potable reuse. Potable reuse offers a reliable and climate-resilient source of water, yet public acceptance presents a major obstacle to widespread adoption. This review synthesizes research on the sensory, physiological, and psychological factors that shape how people evaluate drinking water and relates these concepts to three case studies of reuse programs in Colorado, California, and Singapore. These findings reveal that outreach efforts should consider the presentation of potable reuse water, including its name, the platforms used, and the messengers delivering the information. Strategies should be specific to audiences and use engaging, memorable educational methods. Consistency across treatment plants and an interdisciplinary approach further strengthen public confidence and program success. This review provides a framework for integrating sensory science, psychology, and communication practices to support the development of safe, publicly accepted potable reuse systems."
+    "section": "From Yuck to Yes: What Drives Acceptance of Potable Water Reuse",
+    "text": "From Yuck to Yes: What Drives Acceptance of Potable Water Reuse\nGrowing water scarcity and climate pressures are driving the exploration of alternative drinking-water sources, including potable reuse. Potable reuse offers a reliable and climate-resilient source of water, yet public acceptance presents a major obstacle to widespread adoption. This review synthesizes research on the sensory, physiological, and psychological factors that shape how people evaluate drinking water and relates these concepts to three case studies of reuse programs in Colorado, California, and Singapore. These findings reveal that outreach efforts should consider the presentation of potable reuse water, including its name, the platforms used, and the messengers delivering the information. Strategies should be specific to audiences and use engaging, memorable educational methods. Consistency across treatment plants and an interdisciplinary approach further strengthen public confidence and program success. This review provides a framework for integrating sensory science, psychology, and communication practices to support the development of safe, publicly accepted potable reuse systems."
   },
   {
     "objectID": "Projects.html#limnological-study-of-horsetooth-reservoir",
@@ -102,6 +102,20 @@
     "href": "Projects.html#bear-creek-lake-park-sign",
     "title": "Projects",
     "section": "Bear Creek Lake Park Sign",
-    "text": "Bear Creek Lake Park Sign\n\n\n\nHorsetooth"
+    "text": "Bear Creek Lake Park Sign"
+  },
+  {
+    "objectID": "Projects.html#following-the-flow-pfas-detection-patterns-across-colorado",
+    "href": "Projects.html#following-the-flow-pfas-detection-patterns-across-colorado",
+    "title": "Projects",
+    "section": "",
+    "text": "PFAS Detections in Colorado\n\n\nPer- and polyfluoroalkyl substances (PFAS) are a large class of synthetic chemicals that have been manufactured since the 1940s for a multitude of purposes. Their widespread use and environmental persistence have led to growing concern about their presence in natural and drinking water systems. This report uses data from the EPA Fifth Unregulated Contaminant Monitoring Rule Data Finder, filtered to the state of Colorado, to analyze PFAS spatially and across different different public water systems of different sizes and using different water types."
+  },
+  {
+    "objectID": "Projects.html#environmental-data-science-applications-water-resources",
+    "href": "Projects.html#environmental-data-science-applications-water-resources",
+    "title": "Projects",
+    "section": "Environmental Data Science Applications: Water Resources",
+    "text": "Environmental Data Science Applications: Water Resources\nThis course focuses on analyzing and understanding water resources through the lens of modern data science. We examine key innovations in data science, geospatial processing and machine learning for hydrological prediction and model parameterization — with an emphasis using real data.\n\nExploring Streamflow Across the Colorado River Basin\n This lab works with streamflow records pulled directly from the USGS National Water Information System (NWIS) to build a complete analytical pipeline to answer the question: How has Lees Ferry flow changed? To answer this question, this lab utilizes raw API call to normalized comparisons, threshold detection, basin-wide trend visualization, and a predictive model of the Compact’s key accounting point.\n\n\nDistances and Projections\n Built and manipulated spatial datasets using sf, including coordinate transformations, geometry operations, and distance calculations. Applied vector spatial analysis techniques to measure and visualize distances between U.S. cities and national borders, culminating in an interactive web map exploring the “100-mile border zone” policy.\n\n\nNational Dam Inventory (NID): From Counts to Local Clustering\n\n\n\nLocal Indicators of Spatial Association (LISA). Quadrant dam distributions for hexagon and county tesselations. (H=high, L=low)\n\n\nAnalyzed ~90,000 U.S. dams using tessellated spatial grids including Voronoi, Delaunay, square, and hexagonal partitions. Developed functions for spatial aggregation and visualization while exploring the Modifiable Areal Unit Problem (MAUP).\n###Palo Iowa Flooding\n\nUsed Landsat 8 satellite imagery and raster analysis techniques to map flooding near Palo, Iowa following the 2016 flood event. Processed multispectral imagery, created true- and false-color composites, and classified inundated areas through raster thresholding and pre/post flood comparisons.\n\n\n[Machine Learning in Hydrology] (https://maisiemoline.github.io/2026-ESS-523c/lab-05.html)\n Built predictive hydrology models using the CAMELS watershed dataset and the tidymodels framework. Compared multiple machine learning approaches, evaluated spatial versus random cross-validation performance, analyzed variable importance, and explored how spatial leakage can inflate model accuracy estimates.\n###Modeltime to predict future streamflow on the Cache la Poudre River\n Developed time series forecasting models for the Cache la Poudre River using historical streamflow and climate data. Combined GridMET and MACA climate predictors with modeltime workflows to generate climate-conditioned streamflow forecasts and evaluate future hydrologic variability."
   }
 ]
