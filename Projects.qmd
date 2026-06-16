@@ -35,17 +35,19 @@ This course focuses on analyzing and understanding water resources through the l
 
 Analyzed \~90,000 U.S. dams using tessellated spatial grids including Voronoi, Delaunay, square, and hexagonal partitions. Developed functions for spatial aggregation and visualization while exploring the Modifiable Areal Unit Problem (MAUP).
 
-\###[Palo Iowa Flooding](https://maisiemoline.github.io/2026-ESS-523c/lab-04.html)
+### [Palo Iowa Flooding](https://maisiemoline.github.io/2026-ESS-523c/lab-04.html)
 
 ![](media/Lab4pic.png)
 
 Used Landsat 8 satellite imagery and raster analysis techniques to map flooding near Palo, Iowa following the 2016 flood event. Processed multispectral imagery, created true- and false-color composites, and classified inundated areas through raster thresholding and pre/post flood comparisons.
 
-### \[Machine Learning in Hydrology\] (https://maisiemoline.github.io/2026-ESS-523c/lab-05.html)
+### [Machine Learning in Hydrology](https://maisiemoline.github.io/2026-ESS-523c/lab-05.html)
 
-![](media/lab5pic.png) Built predictive hydrology models using the CAMELS watershed dataset and the tidymodels framework. Compared multiple machine learning approaches, evaluated spatial versus random cross-validation performance, analyzed variable importance, and explored how spatial leakage can inflate model accuracy estimates.
+![](media/lab5pic.png)
 
-\###[Modeltime to predict future streamflow on the Cache la Poudre River](https://maisiemoline.github.io/2026-ESS-523c/lab-06.html)
+Built predictive hydrology models using the CAMELS watershed dataset and the tidymodels framework. Compared multiple machine learning approaches, evaluated spatial versus random cross-validation performance, analyzed variable importance, and explored how spatial leakage can inflate model accuracy estimates.
+
+### [Modeltime to predict future streamflow on the Cache la Poudre River](https://maisiemoline.github.io/2026-ESS-523c/lab-06.html)
 
 ![](media/lab6pic.png) Developed time series forecasting models for the Cache la Poudre River using historical streamflow and climate data. Combined GridMET and MACA climate predictors with modeltime workflows to generate climate-conditioned streamflow forecasts and evaluate future hydrologic variability.
 
