@@ -7,7 +7,7 @@ format: html
 
 ![PFAS Detections in Colorado](media/sitemap_pfas.png)
 
-Per- and polyfluoroalkyl substances (PFAS) are a large class of synthetic chemicals that have been manufactured since the 1940s for a multitude of purposes. Their widespread use and environmental persistence have led to growing concern about their presence in natural and drinking water systems. This report uses data from the EPA Fifth Unregulated Contaminant Monitoring Rule Data Finder, filtered to the state of Colorado, to analyze PFAS spatially and across different public water systems of different sizes and using different water types.
+Per- and polyfluoroalkyl substances (PFAS) are a large class of synthetic chemicals that have been manufactured since the 1940s for a multitude of purposes. Their widespread use and environmental persistence have led to growing concern about their presence in natural and drinking water systems. This report uses data from the EPA Fifth Unregulated Contaminant Monitoring Rule Data Finder, filtered to the state of Colorado, to analyze PFAS spatially and across public water systems of varying sizes and water types.
 
 ## [From Yuck to Yes: What Drives Acceptance of Potable Water Reuse](media/Thesis%20copy.pdf)
 
